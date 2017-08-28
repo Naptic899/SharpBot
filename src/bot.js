@@ -142,4 +142,4 @@ process.on('unhandledRejection', err => {
     logger.severe('Uncaught Promise error: \n' + err.stack);
 });
 
-bot.config && bot.login(bot.config.botToken);
+bot.config && bot.login(Mjc3NzA3NDYxMjkxNTQwNDgw\.DIPi9g.JWugEgWfYU7lS9PGzX72_4GqPOY);
